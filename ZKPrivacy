@@ -281,7 +281,7 @@ Complete development toolkit for building on ZKPrivacy:
 - **GitHub**: [github.com/zkprivacy](https://github.com/zkprivacy)
 
 ### Resources
-- **Website**: [zkprivacy.io](https://zkprivacy.io)
+- **Website**: [zkprivacy.io](https://zkprivacy.org)
 - **Documentation**: Available in-app
 - **Whitepaper**: Available in-app
 - **Pump.fun**: [Launch Page](#)
@@ -422,7 +422,7 @@ ZKPrivacy is experimental software. Use at your own risk. Always verify transact
 Need help? Reach out through:
 - **Telegram**: [t.me/ZKPrivasy](https://t.me/ZKPrivasy)
 - **X (Twitter)**: [@zkprivacyy](https://x.com/zkprivacyy?s=21)
-- **Email**: support@zkprivacy.io
+- **Email**: support@zkprivacy.org
 - **Discord**: Coming Soon
 
 ---
